@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: aqua;
+    border-radius: 10px;
+}
+header img{
+    margin: 10px;
+}
+header a{
+       margin: 10px;
+}
+main h1{
+    text-align: center;
+    color:darkolivegreen;
+    background-color: aquamarine;
+    border-radius: 30px;
+    
+}
+footer{
+background-color: darkcyan;
+}
+footer p{
+background-color: darkseagreen;
+}
+nav{
+    margin: 20px;
+}
+nav a{
+    background-color: cadetblue;
+    border: 2px solid green;
+    border-radius: 10px;
+    margin: 20px;
+}
+.mmm{
+    background-color:darkolivegreen;
+}
+.m{
+    background-color:darkseagreen;
+}
